@@ -1,0 +1,33 @@
+/* MyForm.css */
+.my-form {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.my-form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.my-form input {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.my-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.my-form button:hover {
+  background-color: #0056b3;
+}
